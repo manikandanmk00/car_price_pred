@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278357840985887951/232d3f24ee8349e28415ea30b5557623/artifacts
+end_time: 1744908624510
+entry_point_name: ''
+experiment_id: '278357840985887951'
+lifecycle_stage: active
+run_id: 232d3f24ee8349e28415ea30b5557623
+run_name: popular-snipe-829
+run_uuid: 232d3f24ee8349e28415ea30b5557623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744908603497
+status: 4
+tags: []
+user_id: Manikandan

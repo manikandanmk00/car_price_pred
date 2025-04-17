@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278357840985887951/5228c17736074a7bb8db728ace9ab404/artifacts
+end_time: 1744908356979
+entry_point_name: ''
+experiment_id: '278357840985887951'
+lifecycle_stage: active
+run_id: 5228c17736074a7bb8db728ace9ab404
+run_name: melodic-fly-933
+run_uuid: 5228c17736074a7bb8db728ace9ab404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744908356768
+status: 3
+tags: []
+user_id: Manikandan

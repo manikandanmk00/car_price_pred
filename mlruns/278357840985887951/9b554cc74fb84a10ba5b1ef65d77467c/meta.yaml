@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278357840985887951/9b554cc74fb84a10ba5b1ef65d77467c/artifacts
+end_time: 1744908436306
+entry_point_name: ''
+experiment_id: '278357840985887951'
+lifecycle_stage: active
+run_id: 9b554cc74fb84a10ba5b1ef65d77467c
+run_name: auspicious-wren-284
+run_uuid: 9b554cc74fb84a10ba5b1ef65d77467c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744908400908
+status: 4
+tags: []
+user_id: Manikandan
