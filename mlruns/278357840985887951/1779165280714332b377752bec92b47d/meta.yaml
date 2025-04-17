@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278357840985887951/1779165280714332b377752bec92b47d/artifacts
+end_time: 1744905825932
+entry_point_name: ''
+experiment_id: '278357840985887951'
+lifecycle_stage: active
+run_id: 1779165280714332b377752bec92b47d
+run_name: calm-snipe-199
+run_uuid: 1779165280714332b377752bec92b47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744905602264
+status: 3
+tags: []
+user_id: Manikandan

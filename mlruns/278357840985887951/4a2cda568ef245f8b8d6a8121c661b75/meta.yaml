@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278357840985887951/4a2cda568ef245f8b8d6a8121c661b75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '278357840985887951'
+lifecycle_stage: active
+run_id: 4a2cda568ef245f8b8d6a8121c661b75
+run_name: bemused-skunk-724
+run_uuid: 4a2cda568ef245f8b8d6a8121c661b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744906340695
+status: 1
+tags: []
+user_id: Manikandan
