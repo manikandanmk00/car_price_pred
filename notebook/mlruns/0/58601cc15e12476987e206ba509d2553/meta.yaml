@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Manikandan/Desktop/production_1/car_price_pred/notebook/mlruns/0/58601cc15e12476987e206ba509d2553/artifacts
+end_time: 1744893353529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58601cc15e12476987e206ba509d2553
+run_name: legendary-hawk-743
+run_uuid: 58601cc15e12476987e206ba509d2553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744893352833
+status: 4
+tags: []
+user_id: Manikandan

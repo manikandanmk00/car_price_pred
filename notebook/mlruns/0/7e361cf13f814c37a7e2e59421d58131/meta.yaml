@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Manikandan/Desktop/production_1/car_price_pred/notebook/mlruns/0/7e361cf13f814c37a7e2e59421d58131/artifacts
+end_time: 1744893445943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e361cf13f814c37a7e2e59421d58131
+run_name: efficient-fox-58
+run_uuid: 7e361cf13f814c37a7e2e59421d58131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744893445421
+status: 4
+tags: []
+user_id: Manikandan

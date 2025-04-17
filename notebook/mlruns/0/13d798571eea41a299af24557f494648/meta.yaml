@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Manikandan/Desktop/production_1/car_price_pred/notebook/mlruns/0/13d798571eea41a299af24557f494648/artifacts
+end_time: 1744893727917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13d798571eea41a299af24557f494648
+run_name: skillful-moth-721
+run_uuid: 13d798571eea41a299af24557f494648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744893527949
+status: 3
+tags: []
+user_id: Manikandan
